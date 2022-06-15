@@ -1,6 +1,6 @@
 # Drum Machine
 
-Drum machine made in React. It can played via pressing the buttons or type in the keys.
+Drum machine made in React. It can played via pressing the buttons or using the keyboard
 
 ## Available Scripts
 
